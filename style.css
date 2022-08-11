@@ -1,8 +1,20 @@
+.corpo{
+    float: left;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
 
 .container{
-    max-width: 300px;
-    margin: auto;
-    padding: 20px;
+    display: block;
+    float: right;
+    max-width: 500px;
+    margin: 50px;
+    padding: 30px;
+    padding-right: 40px;
     background-color: aliceblue;
     border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
